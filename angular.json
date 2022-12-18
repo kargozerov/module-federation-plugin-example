@@ -80,8 +80,8 @@
 					},
 					"defaultConfiguration": "development",
 					"options": {
-						"publicHost": "http://localhost:5000",
-						"port": 5000,
+						"publicHost": "http://localhost:4200",
+						"port": 4200,
 						"extraWebpackConfig": "projects/shell/webpack.config.js"
 					}
 				},
@@ -281,5 +281,8 @@
 				}
 			}
 		}
+	},
+	"cli": {
+		"analytics": "d66e773a-dc45-46ac-b08d-93cf26ca72c3"
 	}
 }
